@@ -1,1 +1,1 @@
-# blackjack
+# Black Jack written in Python
